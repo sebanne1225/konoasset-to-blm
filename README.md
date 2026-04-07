@@ -97,7 +97,7 @@ python 05_cleanup_tags.py
 
 ## 関連記事
 
-- [Note: KonoAssetのアセット280個をBOOTH Library Managerに引っ越した話](TODO: URL)
+- [Note: KonoAssetのアセット270個をBOOTH Library Managerに引っ越した話](https://note.com/sebanne/n/n9c6744dda5b8)
 
 ## ライセンス
 
